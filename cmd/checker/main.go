@@ -8,7 +8,7 @@ import (
 	"runtime"
 	"strings"
 
-	"github.com/ONSdigital/gcp-role-checker/checker"
+	"github.com/ONSdigital/gcp-role-checker/pkg/checker"
 )
 
 func main() {
